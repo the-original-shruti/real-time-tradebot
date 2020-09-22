@@ -1,4 +1,5 @@
 # real-time-tradebot
 Real-time Trade Bot
 
-[Resource Link](https://github.com/brandomr/realtimecrypto)
+[Resource Link - Real-time Crypto](https://github.com/brandomr/realtimecrypto)
+
